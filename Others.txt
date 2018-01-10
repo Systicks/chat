@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/32667109/send-and-receive-json-over-sockets-in-server-and-client-application-in-c
